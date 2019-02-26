@@ -3,6 +3,11 @@
 > An utility library to build multiple components (config, db, cache, logging,
 > etc.) of an application in a traceable, reliable and efficient fashion
 
+## Serokell purposes on this repo
+
+The following teams use this repository:
+* Disciplina team (master branch).
+
 ## Table Of Contents
 
 * [Installation](#installation)
