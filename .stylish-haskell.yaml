@@ -1,0 +1,4 @@
+# Import lists style of this repository does not fit to any rule
+# supported by stylish-haskell, so I remain this fail to prevent
+# automatic formatting on save.
+Disabled
